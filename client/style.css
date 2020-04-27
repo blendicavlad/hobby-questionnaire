@@ -1,0 +1,61 @@
+body {
+    background: #20262E;
+    font-family: Helvetica;
+  }
+  
+#main_form, #submitted_form {
+    background: #fff;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+  
+
+#spn {
+    color: red;
+    font-size: 20px;
+}
+  
+li {
+    margin: 8px 0;
+}
+
+.center-div{
+    margin: 0 auto;
+    width:80% /* value of your choice which suits your alignment */
+}
+  
+h1 {
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#imgvue {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main_form {
+    color: #20262E!important;
+}
+
+#accept_row {
+    padding: 10px;
+}
+
+#btns {
+    text-align: center!important;
+}
+
+#main-header {
+    color:#4aae9b;
+    text-shadow: -1px -1px 0 #20262E, 1px -1px 0 #20262E, -1px 1px 0 #20262E, 1px 1px 0 #20262E;
+}
+
+.btn.btn-primary {
+    color: white;
+    background: #4aae9b;
+    border: 0.5px solid #20262E;
+    border-radius: 18px;
+}
